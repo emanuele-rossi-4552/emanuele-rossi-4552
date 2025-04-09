@@ -8,7 +8,7 @@ Here you’ll find my personal projects, experiments, and prototypes.
 ## 🛠️ Technologies I work with:
 - **Languages**: C, Java, MySQL, GDScript, Python (occasionally)
 - **Platforms**: Arduino, ESP32
-- **Tools**: Git, VS Code, PlatformIO, Apache, Ampps
+- **Tools**: Git, VSCode, PlatformIO, NetBeans, Ampps
 - **Other**: IoT protocols, sensors, actuators
 
 ## 📂 Projects:
