@@ -13,7 +13,7 @@ Here you’ll find my personal projects, experiments, and prototypes.
 
 ## 📂 Projects:
 - **[Automatic Plant Watering System](https://github.com/emanuele-rossi-4552/automatic-watering.git)**: An IoT project with ESP32 and sensors to automate plant watering.
-- **[Humidity Control System](https://github.com/emanuele-rossi-4552/humidity-control)**: An IoT project with ESP32 and sensors to read the data on humidity and archive them in a MySQL database. A REACT site reads and displays data as graphs.
+- **[Humidity Control System](https://github.com/emanuele-rossi-4552/humidity-control)**: An IoT project using an ESP32 and sensors to collect humidity data and store it in a Firebase database. A React web app retrieves and displays the data as graphs.
 
 ## 🌱 Currently learning:
 - Advanced IoT integrations (smart home, automation)
