@@ -14,6 +14,7 @@ Here you’ll find my personal projects, experiments, and prototypes.
 ## 📂 Projects:
 - **[Automatic Plant Watering System](https://github.com/emanuele-rossi-4552/automatic-watering.git)**: An IoT project with ESP32 and sensors to automate plant watering.
 - **[Humidity Control System](https://github.com/emanuele-rossi-4552/humidity-control)**: An IoT project using an ESP32 and sensors to collect humidity data and store it in a Firebase database. A React web app retrieves and displays the data as graphs.
+- **[Encrypted Chat - Client/Server with RSA](https://github.com/emanuele-rossi-4552/ClientServer-chat-crittografata)**: A Java application implementing an encrypted chat using a client-server architecture and RSA public-key cryptography.
 
 ## 🌱 Currently learning:
 - Advanced IoT integrations (smart home, automation)
