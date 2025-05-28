@@ -6,9 +6,9 @@ In my free time, I explore **game development**, but it remains a secondary pass
 Here you’ll find my personal projects, experiments, and prototypes.
 
 ## 🛠️ Technologies I work with:
-- **Languages**: C, Java, MySQL, GDScript, Python (occasionally), JavaScript (occasionally)
+- **Languages**: C, Java, MySQL, GDScript, PHP, Python (occasionally), JavaScript (occasionally)
 - **Platforms**: Arduino, ESP32
-- **Tools**: Git, VSCode, PlatformIO, NetBeans, Ampps
+- **Tools**: Git, VSCode, PlatformIO, NetBeans, Ampps, MySQL
 - **Other**: IoT protocols, sensors, actuators
 
 ## 📂 Projects:
