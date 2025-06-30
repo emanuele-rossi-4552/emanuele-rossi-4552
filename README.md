@@ -20,8 +20,6 @@ Here you’ll find my personal projects, experiments, and prototypes.
 - Advanced IoT integrations (smart home, automation)
 - Game development principles and design patterns
 
-## 📬 How to reach me:
-- Email: emanuele.rossi.git@gmail.com
 <!--
 **emanuele-rossi-4552/emanuele-rossi-4552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
