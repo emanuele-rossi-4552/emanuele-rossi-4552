@@ -13,9 +13,8 @@ Here you’ll find my personal projects, experiments, and prototypes.
 
 ## 📂 Projects:
 ⭐ Featured Project: **[Humidity Control System](https://github.com/emanuele-rossi-4552/humidity-control)**
-
-An IoT system using an ESP32 to collect temperature and humidity data and send them to a server.  
-A React web app retrieves the data and allows visualization on both desktop and mobile devices.
+  An IoT system using an ESP32 to collect temperature and humidity data and send them to a server.  
+  A React web app retrieves the data and allows visualization on both desktop and mobile devices.
 
 Other Projects:
 - **[Encrypted Chat - Client/Server with RSA](https://github.com/emanuele-rossi-4552/ClientServer-chat-crittografata)**: A Java application implementing an encrypted chat using a client-server architecture and RSA public-key cryptography.
