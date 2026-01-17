@@ -18,7 +18,7 @@ Here you’ll find my personal projects, experiments, and prototypes.
   A React web app retrieves the data and allows visualization on both desktop and mobile devices.
   
 Other Projects:
-- **[Project diary](https://github.com/emanuele-rossi-4552/Project-diary)**: A React app to track projects and ideas over time, with local data persistence via IndexedDB.
+- **[Project Diary](https://github.com/emanuele-rossi-4552/Project-diary)**: A React app to track projects and ideas over time, with local data persistence via IndexedDB.
 - **[Encrypted Chat - Client/Server with RSA](https://github.com/emanuele-rossi-4552/ClientServer-chat-crittografata)**: A Java application implementing an encrypted chat using a client-server architecture and RSA public-key cryptography.
 - **[Automatic Plant Watering System](https://github.com/emanuele-rossi-4552/automatic-watering.git)**: An IoT project with ESP32 and sensors to automate plant watering.
 
