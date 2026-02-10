@@ -12,7 +12,14 @@ Here you’ll find my personal projects, experiments, and prototypes.
 - **Other**: IoT protocols, sensors, actuators
 
 ## 📂 Projects:
-⭐ Featured Project: **[Humidity Control System](https://github.com/emanuele-rossi-4552/humidity-control)**
+⭐ Featured Projects: 
+
+**[Book Tracker](https://github.com/emanuele-rossi-4552/Book-Tracker)**
+
+  A React Native (Expo) mobile app for managing a personal library: book cataloging, categories and subcategories, reading status, ratings, and comments.  
+  The app is published on the Google Play Store (link available upon publication).
+
+**[Humidity Control System](https://github.com/emanuele-rossi-4552/humidity-control)**
 
   An IoT system using an ESP32 to collect temperature and humidity data and send them to a server.  
   A React web app retrieves the data and allows visualization on both desktop and mobile devices.
